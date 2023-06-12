@@ -1,0 +1,16 @@
+Integrating KRATIN UHX with HBSR (Human behaviour and speech recognition)
+Helping elderly with Ai
+The existing applications/ models for fighting mental health are focused mainly on the younger generation who are believed to be battling depression due to various reasons. This may seem to be satisfactory but we are missing a very important section of society who might be requiring help, i.e. the elderly (65+). There is a social taboo for elderly which creates a barrier for them to seek help in this fast changing technological world. In addition to this, the monetary factor also plays a major role. We are aiming to use the technical leverage we have to solve this issue.
+→HBSR (Human behaviour and speech recognition)
+Using Ai, we are aiming to develop a Human Behavior and speech recognition system that can help seamlessly integrate the knowledge of known human behaviour and speech to evaluate the patient’s mental state and suggest a highly curated care plan. Using this model is very straightforward.
+The process:
+The patient has to login into the website and either create a new account or can log into using the existing KRATIN account (a Magic Touch). The website will then be directed to a personal dashboard where the patient can view his/her medical history (if logged in using KRATIN account, else a fairly blank personal space). Here they will be prompted to take a demo of this HSBR (free of cost). 
+The demo would include recording or uploading a 5min video of a self narrating a given paragraph. After uploading the video, all the patient needs to do is wait while Ai does the magic for them. The Ai would then run in the background to carefully evaluate the patient's mental health using an algorithm designed based on human behaviour and speech pattern recognition including but not limited to stress levels, serotonin levels, anxiety, moods, etc.
+The KRATIN UHX integration (being the magic touch here) would work remarkably to incorporate the patient's medical history to carefully craft a care plan best suited for him/her, After all the assessment, HSBR would present 3 options to the patient to choose from:
+
+Continue with Ai
+For elderly who are more comfortable with virtual mental health assistants, can choose to continue with AI. This would be a paid and affordable subscription service with a cost being fractional compared to the traditional therapists.
+Continue with KRATIN recommended therapist
+Under this mode HBSR would suggest KRATIN recommended therapist based on the patient’s medical history. Therapists would be recommended within a patient's nearby place. This would eliminate the lack of good therapist recommendations.
+Continue with meditation app
+For individuals who are currently not comfortable with AI as well as therapy sessions can continue with KRATIN recommended meditation app. This would help them deal with anxiety, stress, and depression for the time being.
